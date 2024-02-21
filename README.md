@@ -7,7 +7,7 @@
 ```
 
 
-# SSH Private Key Looting Wordlist 🔒🗝️
+# SSH Private Key Looting Wordlists 🔒🗝️
 
 This repository contains a collection of wordlists to aid in locating or brute-forcing SSH private key file names. These wordlists can be useful for penetration testers, security researchers, and anyone else interested in assessing the security of SSH configurations.
 
