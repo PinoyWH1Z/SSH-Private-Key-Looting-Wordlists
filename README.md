@@ -11,6 +11,9 @@
 
 This repository contains a collection of wordlists to aid in locating or brute-forcing SSH private key file names. These wordlists can be useful for penetration testers, security researchers, and anyone else interested in assessing the security of SSH configurations.
 
+[![GitHub Release](https://img.shields.io/github/release/PinoyWH1Z/SSH-Private-Key-Looting-Wordlists.svg?style=flat-square)](https://github.com/PinoyWH1Z/SSH-Private-Key-Looting-Wordlists/releases)
+[![GitHub License](https://img.shields.io/github/license/PinoyWH1Z/SSH-Private-Key-Looting-Wordlists.svg?style=flat-square)](https://github.com/PinoyWH1Z/SSH-Private-Key-Looting-Wordlists/blob/master/LICENSE)
+
 ## Wordlist Files 📝
 
 - **ssh-priv-key-loot-common.txt**: Default and common naming conventions for SSH private key files.
