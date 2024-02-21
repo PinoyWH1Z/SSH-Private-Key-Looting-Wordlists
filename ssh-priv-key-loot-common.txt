@@ -1,0 +1,14 @@
+id_dsa
+id_dsa-cert
+id_ecdsa
+id_ecdsa-cert
+id_ecdsa_sk
+id_ecdsa_sk-cert
+id_ed25519
+id_ed25519-cert
+id_ed25519_sk
+id_ed25519_sk-cert
+id_rsa
+id_rsa-cert
+id_xmss
+id_xmss-cert

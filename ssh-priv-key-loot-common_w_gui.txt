@@ -1,0 +1,42 @@
+id_dsa
+id_dsa (copy 1)
+id_dsa (copy 1) (copy 1)
+id_dsa-cert
+id_dsa-cert (copy 1)
+id_dsa-cert (copy 1) (copy 1)
+id_ecdsa
+id_ecdsa (copy 1)
+id_ecdsa (copy 1) (copy 1)
+id_ecdsa-cert
+id_ecdsa-cert (copy 1)
+id_ecdsa-cert (copy 1) (copy 1)
+id_ecdsa_sk
+id_ecdsa_sk (copy 1)
+id_ecdsa_sk (copy 1) (copy 1)
+id_ecdsa_sk-cert
+id_ecdsa_sk-cert (copy 1)
+id_ecdsa_sk-cert (copy 1) (copy 1)
+id_ed25519
+id_ed25519 (copy 1)
+id_ed25519 (copy 1) (copy 1)
+id_ed25519-cert
+id_ed25519-cert (copy 1)
+id_ed25519-cert (copy 1) (copy 1)
+id_ed25519_sk
+id_ed25519_sk (copy 1)
+id_ed25519_sk (copy 1) (copy 1)
+id_ed25519_sk-cert
+id_ed25519_sk-cert (copy 1)
+id_ed25519_sk-cert (copy 1) (copy 1)
+id_rsa
+id_rsa (copy 1)
+id_rsa (copy 1) (copy 1)
+id_rsa-cert
+id_rsa-cert (copy 1)
+id_rsa-cert (copy 1) (copy 1)
+id_xmss
+id_xmss (copy 1)
+id_xmss (copy 1) (copy 1)
+id_xmss-cert
+id_xmss-cert (copy 1)
+id_xmss-cert (copy 1) (copy 1)
