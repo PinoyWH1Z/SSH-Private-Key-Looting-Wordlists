@@ -4,6 +4,7 @@ id-dsa_cert
 id-ecdsa
 id-ecdsa-cert
 id-ecdsa-sk
+id-ecdsa-sk-cert
 id-ecdsa-sk_cert
 id-ecdsa_cert
 id-ecdsa_sk
@@ -12,6 +13,7 @@ id-ecdsa_sk_cert
 id-ed25519
 id-ed25519-cert
 id-ed25519-sk
+id-ed25519-sk-cert
 id-ed25519-sk_cert
 id-ed25519_cert
 id-ed25519_sk
@@ -28,12 +30,18 @@ id_dsa-cert
 id_dsa_cert
 id_ecdsa
 id_ecdsa-cert
+id_ecdsa-sk
+id_ecdsa-sk-cert
+id_ecdsa-sk_cert
 id_ecdsa_cert
 id_ecdsa_sk
 id_ecdsa_sk-cert
 id_ecdsa_sk_cert
 id_ed25519
 id_ed25519-cert
+id_ed25519-sk
+id_ed25519-sk-cert
+id_ed25519-sk_cert
 id_ed25519_cert
 id_ed25519_sk
 id_ed25519_sk-cert
