@@ -94,8 +94,6 @@ dsa-private.cert.new
 dsa-private.crt.new
 dsa-private.latest
 dsa-private.new
-dsa-private.priv.new
-dsa-private.private.new
 dsa-private_cert.new
 dsa-private_crt.new
 dsa-private_key
@@ -184,8 +182,6 @@ dsa-secure-private.cert.new
 dsa-secure-private.crt.new
 dsa-secure-private.latest
 dsa-secure-private.new
-dsa-secure-private.priv.new
-dsa-secure-private.private.new
 dsa-secure-private_cert.new
 dsa-secure-private_crt.new
 dsa-secure_key
@@ -451,8 +447,6 @@ ecdsa-private.cert.new
 ecdsa-private.crt.new
 ecdsa-private.latest
 ecdsa-private.new
-ecdsa-private.priv.new
-ecdsa-private.private.new
 ecdsa-private_cert.new
 ecdsa-private_crt.new
 ecdsa-private_key
@@ -541,8 +535,6 @@ ecdsa-secure-private.cert.new
 ecdsa-secure-private.crt.new
 ecdsa-secure-private.latest
 ecdsa-secure-private.new
-ecdsa-secure-private.priv.new
-ecdsa-secure-private.private.new
 ecdsa-secure-private_cert.new
 ecdsa-secure-private_crt.new
 ecdsa-secure_key
@@ -663,8 +655,6 @@ ecdsa-sk-private.cert.new
 ecdsa-sk-private.crt.new
 ecdsa-sk-private.latest
 ecdsa-sk-private.new
-ecdsa-sk-private.priv.new
-ecdsa-sk-private.private.new
 ecdsa-sk-private_cert.new
 ecdsa-sk-private_crt.new
 ecdsa-sk-secret
@@ -708,8 +698,6 @@ ecdsa-sk-secure-private.cert.new
 ecdsa-sk-secure-private.crt.new
 ecdsa-sk-secure-private.latest
 ecdsa-sk-secure-private.new
-ecdsa-sk-secure-private.priv.new
-ecdsa-sk-secure-private.private.new
 ecdsa-sk-secure-private_cert.new
 ecdsa-sk-secure-private_crt.new
 ecdsa-sk_access
@@ -1243,8 +1231,6 @@ ed25519-private.cert.new
 ed25519-private.crt.new
 ed25519-private.latest
 ed25519-private.new
-ed25519-private.priv.new
-ed25519-private.private.new
 ed25519-private_cert.new
 ed25519-private_crt.new
 ed25519-private_key
@@ -1333,8 +1319,6 @@ ed25519-secure-private.cert.new
 ed25519-secure-private.crt.new
 ed25519-secure-private.latest
 ed25519-secure-private.new
-ed25519-secure-private.priv.new
-ed25519-secure-private.private.new
 ed25519-secure-private_cert.new
 ed25519-secure-private_crt.new
 ed25519-secure_key
@@ -1455,8 +1439,6 @@ ed25519-sk-private.cert.new
 ed25519-sk-private.crt.new
 ed25519-sk-private.latest
 ed25519-sk-private.new
-ed25519-sk-private.priv.new
-ed25519-sk-private.private.new
 ed25519-sk-private_cert.new
 ed25519-sk-private_crt.new
 ed25519-sk-secret
@@ -1500,8 +1482,6 @@ ed25519-sk-secure-private.cert.new
 ed25519-sk-secure-private.crt.new
 ed25519-sk-secure-private.latest
 ed25519-sk-secure-private.new
-ed25519-sk-secure-private.priv.new
-ed25519-sk-secure-private.private.new
 ed25519-sk-secure-private_cert.new
 ed25519-sk-secure-private_crt.new
 ed25519-sk_access
@@ -2384,8 +2364,6 @@ my-dsa-private.cert.new
 my-dsa-private.crt.new
 my-dsa-private.latest
 my-dsa-private.new
-my-dsa-private.priv.new
-my-dsa-private.private.new
 my-dsa-private_cert.new
 my-dsa-private_crt.new
 my-dsa-secret
@@ -2461,8 +2439,6 @@ my-ecdsa-private.cert.new
 my-ecdsa-private.crt.new
 my-ecdsa-private.latest
 my-ecdsa-private.new
-my-ecdsa-private.priv.new
-my-ecdsa-private.private.new
 my-ecdsa-private_cert.new
 my-ecdsa-private_crt.new
 my-ecdsa-secret
@@ -2497,8 +2473,6 @@ my-ecdsa-sk-private.cert.new
 my-ecdsa-sk-private.crt.new
 my-ecdsa-sk-private.latest
 my-ecdsa-sk-private.new
-my-ecdsa-sk-private.priv.new
-my-ecdsa-sk-private.private.new
 my-ecdsa-sk-private_cert.new
 my-ecdsa-sk-private_crt.new
 my-ecdsa-sk-secret
@@ -2626,8 +2600,6 @@ my-ed25519-private.cert.new
 my-ed25519-private.crt.new
 my-ed25519-private.latest
 my-ed25519-private.new
-my-ed25519-private.priv.new
-my-ed25519-private.private.new
 my-ed25519-private_cert.new
 my-ed25519-private_crt.new
 my-ed25519-secret
@@ -2662,8 +2634,6 @@ my-ed25519-sk-private.cert.new
 my-ed25519-sk-private.crt.new
 my-ed25519-sk-private.latest
 my-ed25519-sk-private.new
-my-ed25519-sk-private.priv.new
-my-ed25519-sk-private.private.new
 my-ed25519-sk-private_cert.new
 my-ed25519-sk-private_crt.new
 my-ed25519-sk-secret
@@ -2868,8 +2838,6 @@ my-rsa-private.cert.new
 my-rsa-private.crt.new
 my-rsa-private.latest
 my-rsa-private.new
-my-rsa-private.priv.new
-my-rsa-private.private.new
 my-rsa-private_cert.new
 my-rsa-private_crt.new
 my-rsa-secret
@@ -2945,8 +2913,6 @@ my-xmss-private.cert.new
 my-xmss-private.crt.new
 my-xmss-private.latest
 my-xmss-private.new
-my-xmss-private.priv.new
-my-xmss-private.private.new
 my-xmss-private_cert.new
 my-xmss-private_crt.new
 my-xmss-secret
@@ -3022,8 +2988,6 @@ my_dsa-private.cert.new
 my_dsa-private.crt.new
 my_dsa-private.latest
 my_dsa-private.new
-my_dsa-private.priv.new
-my_dsa-private.private.new
 my_dsa-private_cert.new
 my_dsa-private_crt.new
 my_dsa-secret
@@ -3099,8 +3063,6 @@ my_ecdsa-private.cert.new
 my_ecdsa-private.crt.new
 my_ecdsa-private.latest
 my_ecdsa-private.new
-my_ecdsa-private.priv.new
-my_ecdsa-private.private.new
 my_ecdsa-private_cert.new
 my_ecdsa-private_crt.new
 my_ecdsa-secret
@@ -3264,8 +3226,6 @@ my_ed25519-private.cert.new
 my_ed25519-private.crt.new
 my_ed25519-private.latest
 my_ed25519-private.new
-my_ed25519-private.priv.new
-my_ed25519-private.private.new
 my_ed25519-private_cert.new
 my_ed25519-private_crt.new
 my_ed25519-secret
@@ -3605,8 +3565,6 @@ my_rsa-private.cert.new
 my_rsa-private.crt.new
 my_rsa-private.latest
 my_rsa-private.new
-my_rsa-private.priv.new
-my_rsa-private.private.new
 my_rsa-private_cert.new
 my_rsa-private_crt.new
 my_rsa-secret
@@ -3682,8 +3640,6 @@ my_xmss-private.cert.new
 my_xmss-private.crt.new
 my_xmss-private.latest
 my_xmss-private.new
-my_xmss-private.priv.new
-my_xmss-private.private.new
 my_xmss-private_cert.new
 my_xmss-private_crt.new
 my_xmss-secret
@@ -4032,8 +3988,6 @@ rsa-private.cert.new
 rsa-private.crt.new
 rsa-private.latest
 rsa-private.new
-rsa-private.priv.new
-rsa-private.private.new
 rsa-private_cert.new
 rsa-private_crt.new
 rsa-private_key
@@ -4122,8 +4076,6 @@ rsa-secure-private.cert.new
 rsa-secure-private.crt.new
 rsa-secure-private.latest
 rsa-secure-private.new
-rsa-secure-private.priv.new
-rsa-secure-private.private.new
 rsa-secure-private_cert.new
 rsa-secure-private_crt.new
 rsa-secure_key
@@ -5291,8 +5243,6 @@ xmss-private.cert.new
 xmss-private.crt.new
 xmss-private.latest
 xmss-private.new
-xmss-private.priv.new
-xmss-private.private.new
 xmss-private_cert.new
 xmss-private_crt.new
 xmss-private_key
@@ -5381,8 +5331,6 @@ xmss-secure-private.cert.new
 xmss-secure-private.crt.new
 xmss-secure-private.latest
 xmss-secure-private.new
-xmss-secure-private.priv.new
-xmss-secure-private.private.new
 xmss-secure-private_cert.new
 xmss-secure-private_crt.new
 xmss-secure_key
