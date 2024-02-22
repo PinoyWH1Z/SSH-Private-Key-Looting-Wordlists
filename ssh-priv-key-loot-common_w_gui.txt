@@ -1,42 +1,162 @@
+id-dsa
+id-dsa (copy 1)
+id-dsa (copy 1) (copy 1)
+id-dsa-cert
+id-dsa-cert (copy 1)
+id-dsa-cert (copy 1) (copy 1)
+id-dsa_cert
+id-dsa_cert (copy 1)
+id-dsa_cert (copy 1) (copy 1)
+id-ecdsa
+id-ecdsa (copy 1)
+id-ecdsa (copy 1) (copy 1)
+id-ecdsa-cert
+id-ecdsa-cert (copy 1)
+id-ecdsa-cert (copy 1) (copy 1)
+id-ecdsa-sk
+id-ecdsa-sk (copy 1)
+id-ecdsa-sk (copy 1) (copy 1)
+id-ecdsa-sk-cert
+id-ecdsa-sk-cert (copy 1)
+id-ecdsa-sk-cert (copy 1) (copy 1)
+id-ecdsa-sk_cert
+id-ecdsa-sk_cert (copy 1)
+id-ecdsa-sk_cert (copy 1) (copy 1)
+id-ecdsa_cert
+id-ecdsa_cert (copy 1)
+id-ecdsa_cert (copy 1) (copy 1)
+id-ecdsa_sk
+id-ecdsa_sk (copy 1)
+id-ecdsa_sk (copy 1) (copy 1)
+id-ecdsa_sk-cert
+id-ecdsa_sk-cert (copy 1)
+id-ecdsa_sk-cert (copy 1) (copy 1)
+id-ecdsa_sk_cert
+id-ecdsa_sk_cert (copy 1)
+id-ecdsa_sk_cert (copy 1) (copy 1)
+id-ed25519
+id-ed25519 (copy 1)
+id-ed25519 (copy 1) (copy 1)
+id-ed25519-cert
+id-ed25519-cert (copy 1)
+id-ed25519-cert (copy 1) (copy 1)
+id-ed25519-sk
+id-ed25519-sk (copy 1)
+id-ed25519-sk (copy 1) (copy 1)
+id-ed25519-sk-cert
+id-ed25519-sk-cert (copy 1)
+id-ed25519-sk-cert (copy 1) (copy 1)
+id-ed25519-sk_cert
+id-ed25519-sk_cert (copy 1)
+id-ed25519-sk_cert (copy 1) (copy 1)
+id-ed25519_cert
+id-ed25519_cert (copy 1)
+id-ed25519_cert (copy 1) (copy 1)
+id-ed25519_sk
+id-ed25519_sk (copy 1)
+id-ed25519_sk (copy 1) (copy 1)
+id-ed25519_sk-cert
+id-ed25519_sk-cert (copy 1)
+id-ed25519_sk-cert (copy 1) (copy 1)
+id-ed25519_sk_cert
+id-ed25519_sk_cert (copy 1)
+id-ed25519_sk_cert (copy 1) (copy 1)
+id-rsa
+id-rsa (copy 1)
+id-rsa (copy 1) (copy 1)
+id-rsa-cert
+id-rsa-cert (copy 1)
+id-rsa-cert (copy 1) (copy 1)
+id-rsa_cert
+id-rsa_cert (copy 1)
+id-rsa_cert (copy 1) (copy 1)
+id-xmss
+id-xmss (copy 1)
+id-xmss (copy 1) (copy 1)
+id-xmss-cert
+id-xmss-cert (copy 1)
+id-xmss-cert (copy 1) (copy 1)
+id-xmss_cert
+id-xmss_cert (copy 1)
+id-xmss_cert (copy 1) (copy 1)
 id_dsa
 id_dsa (copy 1)
 id_dsa (copy 1) (copy 1)
 id_dsa-cert
 id_dsa-cert (copy 1)
 id_dsa-cert (copy 1) (copy 1)
+id_dsa_cert
+id_dsa_cert (copy 1)
+id_dsa_cert (copy 1) (copy 1)
 id_ecdsa
 id_ecdsa (copy 1)
 id_ecdsa (copy 1) (copy 1)
 id_ecdsa-cert
 id_ecdsa-cert (copy 1)
 id_ecdsa-cert (copy 1) (copy 1)
+id_ecdsa-sk
+id_ecdsa-sk (copy 1)
+id_ecdsa-sk (copy 1) (copy 1)
+id_ecdsa-sk-cert
+id_ecdsa-sk-cert (copy 1)
+id_ecdsa-sk-cert (copy 1) (copy 1)
+id_ecdsa-sk_cert
+id_ecdsa-sk_cert (copy 1)
+id_ecdsa-sk_cert (copy 1) (copy 1)
+id_ecdsa_cert
+id_ecdsa_cert (copy 1)
+id_ecdsa_cert (copy 1) (copy 1)
 id_ecdsa_sk
 id_ecdsa_sk (copy 1)
 id_ecdsa_sk (copy 1) (copy 1)
 id_ecdsa_sk-cert
 id_ecdsa_sk-cert (copy 1)
 id_ecdsa_sk-cert (copy 1) (copy 1)
+id_ecdsa_sk_cert
+id_ecdsa_sk_cert (copy 1)
+id_ecdsa_sk_cert (copy 1) (copy 1)
 id_ed25519
 id_ed25519 (copy 1)
 id_ed25519 (copy 1) (copy 1)
 id_ed25519-cert
 id_ed25519-cert (copy 1)
 id_ed25519-cert (copy 1) (copy 1)
+id_ed25519-sk
+id_ed25519-sk (copy 1)
+id_ed25519-sk (copy 1) (copy 1)
+id_ed25519-sk-cert
+id_ed25519-sk-cert (copy 1)
+id_ed25519-sk-cert (copy 1) (copy 1)
+id_ed25519-sk_cert
+id_ed25519-sk_cert (copy 1)
+id_ed25519-sk_cert (copy 1) (copy 1)
+id_ed25519_cert
+id_ed25519_cert (copy 1)
+id_ed25519_cert (copy 1) (copy 1)
 id_ed25519_sk
 id_ed25519_sk (copy 1)
 id_ed25519_sk (copy 1) (copy 1)
 id_ed25519_sk-cert
 id_ed25519_sk-cert (copy 1)
 id_ed25519_sk-cert (copy 1) (copy 1)
+id_ed25519_sk_cert
+id_ed25519_sk_cert (copy 1)
+id_ed25519_sk_cert (copy 1) (copy 1)
 id_rsa
 id_rsa (copy 1)
 id_rsa (copy 1) (copy 1)
 id_rsa-cert
 id_rsa-cert (copy 1)
 id_rsa-cert (copy 1) (copy 1)
+id_rsa_cert
+id_rsa_cert (copy 1)
+id_rsa_cert (copy 1) (copy 1)
 id_xmss
 id_xmss (copy 1)
 id_xmss (copy 1) (copy 1)
 id_xmss-cert
 id_xmss-cert (copy 1)
 id_xmss-cert (copy 1) (copy 1)
+id_xmss_cert
+id_xmss_cert (copy 1)
+id_xmss_cert (copy 1) (copy 1)
